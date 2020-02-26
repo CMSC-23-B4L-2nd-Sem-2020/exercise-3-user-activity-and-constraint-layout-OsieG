@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lights Out</string>
+    <string name="name_hint">Place your name here...</string>
+    <string name="button_start">Ok!</string>
+    <string name="title_text">Lights Out</string>
+    <string name="img_content">Image here</string>
+    <string name="curr_clicks_text">Current Clicks:</string>
+    <string name="retry_button">Retry</string>
+</resources>
